@@ -1,4 +1,4 @@
-![Beige Modern Elegant Personal LinkedIn Banner](https://github.com/KaterynaLebedenko/Analysis_of_Data-Related_Positions_on_a_Job_Search_Website/assets/60528022/7dcf9809-d505-4a13-904c-72f05aa9e4f3)
+![Beige Modern Elegant Personal LinkedIn Banner](https://github.com/KaterynaLebedenko/Analysis_of_Data-Related_Positions_on_a_Job_Search_Website/assets/60528022/f2a968d6-6e56-41c4-9455-9d38e5b96f85)
 
 ###
 

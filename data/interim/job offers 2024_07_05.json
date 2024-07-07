@@ -1,0 +1,2461 @@
+{
+    "data analyst": [
+        {
+            "name": "Data Analyst CRM",
+            "company": "Connectis_",
+            "experience level": "Junior",
+            "technology": [
+                "Data",
+                "CRM",
+                "Python",
+                "SQL",
+                "Angielski (B2)"
+            ],
+            "nice to have": "Brak",
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "17000",
+                "high": "21000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Customer Master Data Senior Analyst",
+            "company": "Devire Sp. z o.o.",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "T-SQL",
+                "SAP",
+                "Excel",
+                "Communication skills",
+                "SQL",
+                "Angielski (C1)"
+            ],
+            "nice to have": "Brak",
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "25200",
+                "high": "33600",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Analyst",
+            "company": "XTB",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "Python",
+                "SQL",
+                "Data base",
+                "Polski",
+                "Angielski"
+            ],
+            "nice to have": [
+                "Microsoft Azure",
+                "Databricks",
+                "Spark",
+                "PySpark"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "11760",
+                "high": "18480",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data analyst",
+            "company": "Uncapped",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "SQL",
+                "Problem solving",
+                "Critical thinking",
+                "Communication skills",
+                "Angielski (B2)",
+                "Polski"
+            ],
+            "nice to have": [
+                "Python",
+                "BigQuery",
+                "Proactivity",
+                "GCP"
+            ],
+            "location": "Warszawa",
+            "salary": {
+                "low": "10000",
+                "high": "16000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Senior Data Analyst",
+            "company": "Brainly Sp. z o.o.",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "SQL",
+                "Google Analytics",
+                "Tableau",
+                "BigQuery",
+                "A/B Testing",
+                "Angielski"
+            ],
+            "nice to have": [
+                "Python",
+                "Google Tag Manager",
+                "Amplitude",
+                "Snowflake"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "17000",
+                "high": "23000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "BI Data Analyst - Remote",
+            "company": "Link Group",
+            "experience level": "Mid",
+            "technology": [
+                "Business Intelligence",
+                "Tableau",
+                "ETL",
+                "SQL",
+                "Snowflake",
+                "Redshift",
+                "Angielski (C1)"
+            ],
+            "nice to have": "Brak",
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "10080",
+                "high": "11760",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Senior Product Data Analyst (Maternity Cover)",
+            "company": "Beekeeper AG",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "SQL",
+                "R",
+                "Python",
+                "Tableau",
+                "Looker",
+                "Shiny",
+                "Angielski"
+            ],
+            "nice to have": [
+                "Pendo",
+                "Mixpanel"
+            ],
+            "location": "Kraków",
+            "salary": {
+                "low": "21000",
+                "high": "27500",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Analyst",
+            "company": "SymphonyAI",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "Python",
+                "SQL",
+                "ETL",
+                "Angielski (B2)"
+            ],
+            "nice to have": [
+                "Dask",
+                "Polars"
+            ],
+            "location": "Poznań",
+            "salary": "Brak widełki"
+        },
+        {
+            "name": "Junior Analityk Danych / Analityczka Danych",
+            "company": "Alterdata.io sp. z o.o.",
+            "experience level": "Junior",
+            "technology": [
+                "Data",
+                "SQL",
+                "Polski (NATIVE)",
+                "Angielski (B2)"
+            ],
+            "nice to have": [
+                "Azure",
+                "GCP",
+                "PowerBI",
+                "Tableau",
+                "Data analytics",
+                "Data",
+                "Google Analytics"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "7000",
+                "high": "11000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Senior Expert - Management Reporting & Analytics",
+            "company": "HSBC Technology Poland",
+            "experience level": "Senior",
+            "technology": [
+                "Finanse",
+                "Accounting",
+                "Management Reporting",
+                "Reporting",
+                "Audit",
+                "Analytical skills",
+                "Excel",
+                "PowerPoint",
+                "Angielski (C1)"
+            ],
+            "nice to have": [
+                "CIMA",
+                "ACCA"
+            ],
+            "location": "Kraków",
+            "salary": "Brak widełki"
+        },
+        {
+            "name": "Mid Analityk Danych / Analityczka Danych",
+            "company": "Alterdata.io sp. z o.o.",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "SQL",
+                "Polski (NATIVE)",
+                "Angielski (B2)"
+            ],
+            "nice to have": [
+                "Azure",
+                "GCP",
+                "PowerBI",
+                "Tableau",
+                "Data analytics",
+                "Data",
+                "Google Analytics"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "14000",
+                "high": "21000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Analityk baz danych Oracle",
+            "company": "in4ge sp. z o.o.",
+            "experience level": "Junior",
+            "technology": [
+                "Business Intelligence",
+                "Oracle",
+                "SQL",
+                "Oracle Business Intelligence",
+                "BI",
+                "Polski",
+                "Angielski"
+            ],
+            "nice to have": "Brak",
+            "location": "Praca zdalna",
+            "salary": "Brak widełki"
+        },
+        {
+            "name": "Junior Oracle Business Analyst",
+            "company": "in4ge sp. z o.o.",
+            "experience level": "Junior",
+            "technology": [
+                "Business Analysis",
+                "Oracle",
+                "Oracle Business Intelligence",
+                "SQL",
+                "Polski",
+                "Angielski"
+            ],
+            "nice to have": "Brak",
+            "location": "Praca zdalna",
+            "salary": "Brak widełki"
+        },
+        {
+            "name": "Regular Product Owner/Busines Analyst",
+            "company": "Unravel",
+            "experience level": "Mid",
+            "technology": [
+                "Business Analysis",
+                "BSc",
+                "MSc",
+                "Degree",
+                "Angielski"
+            ],
+            "nice to have": "Brak",
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "14280",
+                "high": "18480",
+                "currency": "PLN"
+            }
+        }
+    ],
+    "data scientist": [
+        {
+            "name": "Data Scientist",
+            "company": "Connectis_",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "Python",
+                "R",
+                "SQL",
+                "Git",
+                "Machine learning",
+                "Angielski (B2)"
+            ],
+            "nice to have": [
+                "MLOps",
+                "Azure Databricks"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "18000",
+                "high": "22000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Junior Data Scientist",
+            "company": "Ringier Axel Springer Tech",
+            "experience level": "Junior",
+            "technology": [
+                "Data",
+                "Python",
+                "Data science",
+                "SQL",
+                "R",
+                "Angielski (B2)"
+            ],
+            "nice to have": [
+                "AWS",
+                "PyTorch"
+            ],
+            "location": "Warszawa",
+            "salary": {
+                "low": "7100",
+                "high": "11900",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Senior Data Scientist",
+            "company": "AVENGA",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "RAG pipelines",
+                "Python",
+                "NLP",
+                "Deep learning",
+                "PyTorch",
+                "large language model architectures",
+                "Machine learning",
+                "AI",
+                "Angielski (B2)",
+                "Polski (NATIVE)"
+            ],
+            "nice to have": "Brak",
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "24360",
+                "high": "27720",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Scientist/ML Engineer",
+            "company": "able.tech",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Data science",
+                "Degree",
+                "Machnine Learning",
+                "Python",
+                "Data analysis",
+                "SQL",
+                "Angielski (C1)"
+            ],
+            "nice to have": [
+                "Azure Data Lake",
+                "Statistics",
+                "Data pipelines"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "22000",
+                "high": "32000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Senior Data Scientist (NLP and Computer Vision)",
+            "company": "Brainly Sp. z o.o.",
+            "experience level": "Senior",
+            "technology": [
+                "AI",
+                "Python",
+                "NLP",
+                "Deep learning",
+                "Computer vision",
+                "AWS SageMaker",
+                "Huggingface",
+                "Angielski"
+            ],
+            "nice to have": [
+                "AWS",
+                "LLMs"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "26000",
+                "high": "35000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Senior Data Scientist (NLP & LLMs)",
+            "company": "Onwelo Sp. z o.o.",
+            "experience level": "Senior",
+            "technology": [
+                "AI",
+                "Python",
+                "GenAI",
+                "Azure",
+                "LangChain",
+                "LlamaIndex",
+                "OpenAI",
+                "Angielski (B2)"
+            ],
+            "nice to have": "Brak",
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "21000",
+                "high": "27300",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Lead/Senior Data Scientist (NLP)",
+            "company": "Sigmoidal",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "AI",
+                "Python",
+                "Machine learning",
+                "Data science",
+                "AWS",
+                "NLP",
+                "Angielski (B2)",
+                "Polski (B2)"
+            ],
+            "nice to have": "Brak",
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "25000",
+                "high": "35000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Senior Data Scientist",
+            "company": "Ringier Axel Springer Tech",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Python",
+                "Data science",
+                "SQL",
+                "Angielski (B2)"
+            ],
+            "nice to have": [
+                "AWS"
+            ],
+            "location": [
+                "Warszawa",
+                "Kraków"
+            ],
+            "salary": "Brak widełki"
+        },
+        {
+            "name": "Middle Data Scientist",
+            "company": "Godel Technologies Europe",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "Data science",
+                "Deep learning",
+                "Natural language processing",
+                "Python",
+                "scikit-learn",
+                "Keras",
+                "Machine learning",
+                "SQL",
+                "Angielski (B1)"
+            ],
+            "nice to have": [
+                "MLOps",
+                "Cloud platform"
+            ],
+            "location": [
+                "Wrocław",
+                "Warszawa",
+                "Białystok",
+                "Łódź",
+                "Gdańsk"
+            ],
+            "salary": {
+                "low": "16000",
+                "high": "23000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Transportation Data Scientist",
+            "company": "Jacobs",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "BS",
+                "Data analysis",
+                "Data visualization",
+                "Tableau",
+                "SQL",
+                "Relational database",
+                "Machine learning",
+                "Forecasting",
+                "Communication skills",
+                "Angielski",
+                "Polski"
+            ],
+            "nice to have": "Brak",
+            "location": [
+                "Lublin",
+                "Poznań",
+                "Katowice",
+                "Wrocław",
+                "Warszawa",
+                "Kraków",
+                "Rzeszów"
+            ],
+            "salary": "Brak widełki"
+        },
+        {
+            "name": "Senior Data Scientist",
+            "company": "hubQuest",
+            "experience level": "Senior",
+            "technology": [
+                "AI",
+                "Python",
+                "Machine Learning",
+                "Data science",
+                "Statistics",
+                "scikit-learn",
+                "pandas",
+                "Matplotlib",
+                "SciPy",
+                "Angielski (C1)"
+            ],
+            "nice to have": [
+                "Docker",
+                "Kubernetes",
+                "Azure"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "28500",
+                "high": "37000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Scientist (Marketing Mix Modeling)",
+            "company": "Lingaro",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Python",
+                "Machnine Learning",
+                "SQL",
+                "Machine learning",
+                "Requirements gathering",
+                "Angielski (C1)"
+            ],
+            "nice to have": [
+                "Scala",
+                "Big Data",
+                "Forecasting"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "15120",
+                "high": "25200",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Scientist",
+            "company": "Connectis_",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "Python",
+                "4GL",
+                "SQL",
+                "Machine learning",
+                "Polski (NATIVE)"
+            ],
+            "nice to have": [
+                "MLOps"
+            ],
+            "location": "Warszawa",
+            "salary": {
+                "low": "18000",
+                "high": "23000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Senior Data Scientist",
+            "company": "Devire",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Data modelling",
+                "Use cases",
+                "Python",
+                "Azure",
+                "Communication skills",
+                "Power BI",
+                "Polski",
+                "Angielski"
+            ],
+            "nice to have": "Brak",
+            "location": "Praca zdalna",
+            "salary": "Brak widełki"
+        },
+        {
+            "name": "Senior Data Scientist (NLP and LLMs)",
+            "company": "Brainly Sp. z o.o.",
+            "experience level": "Senior",
+            "technology": [
+                "AI",
+                "Python",
+                "NLP",
+                "Deep learning",
+                "transformers",
+                "AWS",
+                "Angielski"
+            ],
+            "nice to have": [
+                "LLMs"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "26000",
+                "high": "35000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Scientist",
+            "company": "Shelf",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "AI",
+                "Data analytics",
+                "NLP",
+                "Python",
+                "SQL",
+                "NoSQL",
+                "TensorFlow",
+                "PyTorch",
+                "PhD",
+                "Machine learning",
+                "Machine Learning",
+                "GitHub",
+                "Angielski (B2)"
+            ],
+            "nice to have": [
+                "Degree",
+                "Amazon ML Services",
+                "autonomous agents development"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "23748",
+                "high": "31664",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Scientist (DS/Operations Research Experience)",
+            "company": "Lingaro",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "Python",
+                "SQL",
+                "Azure",
+                "Angielski (C1)"
+            ],
+            "nice to have": [
+                "GCP",
+                "Machine learning",
+                "Kanban",
+                "Requirements gathering",
+                "Communication skills",
+                "Spark",
+                "PySpark",
+                "AI"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "16800",
+                "high": "23520",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Senior Data Scientist z Data Analytics",
+            "company": "eConsulting",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "Python",
+                "AWS",
+                "R",
+                "SQL",
+                "Angielski (C1)"
+            ],
+            "nice to have": "Brak",
+            "location": "Praca zdalna",
+            "salary": "Brak widełki"
+        },
+        {
+            "name": "AVP, Financial Engineering (AI & Data Science)",
+            "company": "HSBC Technology Poland",
+            "experience level": "Senior",
+            "technology": [
+                "AI",
+                "Data science",
+                "data preparation",
+                "Large Language Models",
+                "Python",
+                "Object-oriented programming",
+                "User interface",
+                "GitHub",
+                "Agile",
+                "Source control",
+                "branching concepts",
+                "Angielski (C1)"
+            ],
+            "nice to have": [
+                "UI coding",
+                "Node.js",
+                "React",
+                "Angular",
+                "Project management"
+            ],
+            "location": "Kraków",
+            "salary": "Brak widełki"
+        },
+        {
+            "name": "Data Engineer - Data Science Hub",
+            "company": "Allegro",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "SQL",
+                "Python",
+                "DevOps",
+                "CI/CD",
+                "REST API",
+                "Angielski (B2)",
+                "Polski (B2)"
+            ],
+            "nice to have": [
+                "GitHub",
+                "Apache Airflow",
+                "Communication skills",
+                "Spark",
+                "Google cloud platform",
+                "Keboola"
+            ],
+            "location": "Warszawa",
+            "salary": {
+                "low": "14200",
+                "high": "19690",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Science",
+            "company": "SquareOne",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "Python",
+                "OpenAI",
+                "Polski",
+                "Angielski"
+            ],
+            "nice to have": "Brak",
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "16800",
+                "high": "21840",
+                "currency": "PLN"
+            }
+        }
+    ],
+    "data engineer": [
+        {
+            "name": "Senior Data Engineer",
+            "company": "Altimetrik Poland",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "SQL",
+                "ETL",
+                "Tableau",
+                "Data modeling",
+                "AWS",
+                "Power BI",
+                "CI/CD",
+                "Data warehouse",
+                "Python",
+                "PySpark",
+                "Data engineering",
+                "Storage",
+                "Snowflake",
+                "AWS S3",
+                "AWS EC",
+                "Data modelling",
+                "Design Patterns",
+                "Airflow",
+                "Control-M",
+                "DevOps",
+                "Continuous deployment",
+                "CD",
+                "Data visualization",
+                "BI",
+                "Polski (NATIVE)",
+                "Angielski (B2)"
+            ],
+            "nice to have": "Brak",
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "22000",
+                "high": "26000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Engineer",
+            "company": "hubQuest",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "Python",
+                "PySpark",
+                "Azure",
+                "SQL",
+                "Databricks",
+                "Angielski (C1)",
+                "Polski (C1)"
+            ],
+            "nice to have": [
+                "Terraform",
+                "dbt"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "25000",
+                "high": "30000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Engineer",
+            "company": "7N",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Python",
+                "SQL",
+                "Power BI",
+                "CA",
+                "Angielski"
+            ],
+            "nice to have": [
+                "CI/CD",
+                "Kubernetes",
+                "GCP",
+                "Airflow",
+                "Workato",
+                "dbt",
+                "Snowflake",
+                "Fivetran"
+            ],
+            "location": "Warszawa",
+            "salary": {
+                "low": "26880",
+                "high": "33600",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Engineer",
+            "company": "Talent Hills",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "Python",
+                "Spark",
+                "Hive",
+                "Scala",
+                "Snowflake",
+                "AWS",
+                "Airflow",
+                "Athena",
+                "Kubernetes",
+                "SQL",
+                "MySQL",
+                "PostgreSQL",
+                "Polski",
+                "Angielski"
+            ],
+            "nice to have": [
+                "Ruby on Rails",
+                "Golang"
+            ],
+            "location": "Warszawa",
+            "salary": {
+                "low": "13000",
+                "high": "24000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Remote Data Engineer",
+            "company": "Kingfisher plc.",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "Python",
+                "AWS",
+                "Angielski (B2)",
+                "Polski"
+            ],
+            "nice to have": [
+                "Data modelling",
+                "Storage",
+                "Azure Cloud"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "15000",
+                "high": "19000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Junior Data Engineer / Python Developer",
+            "company": "Alterdata.io sp. z o.o.",
+            "experience level": "Junior",
+            "technology": [
+                "Data",
+                "Python",
+                "SQL",
+                "Problem solving",
+                "Git",
+                "Communication skills",
+                "Data Engineering",
+                "Polski (NATIVE)",
+                "Angielski (B2)"
+            ],
+            "nice to have": [
+                "Azure",
+                "AWS",
+                "Google Cloud Platform",
+                "Airflow",
+                "Spark",
+                "Snowflake",
+                "DBT",
+                "BigQuery",
+                "Azure Data Factory",
+                "ETL",
+                "Databricks",
+                "Docker",
+                "Container"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "7000",
+                "high": "11000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Senior GCP Data Engineer",
+            "company": "Link Group",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "GCP",
+                "BigQuery",
+                "Cloud Functions",
+                "Cloud Run",
+                "Workflows",
+                "Dataflow",
+                "Git",
+                "SQL",
+                "Java",
+                "Python",
+                "DWH",
+                "Data Lake",
+                "Lakehouse",
+                "Polski",
+                "Angielski (B2)"
+            ],
+            "nice to have": [
+                "Docker",
+                "Kubernetes",
+                "Terraform",
+                "dbt",
+                "ETL",
+                "Fivetran",
+                "CI/CD"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "23520",
+                "high": "28560",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Curator for AI (Data Engineer)",
+            "company": "Intergraph Polska Sp. z o.o.",
+            "experience level": "Senior",
+            "technology": [
+                "AI",
+                "Data analysis",
+                "Angielski (B2)"
+            ],
+            "nice to have": [
+                "Phyton",
+                "Cloud",
+                "Machine Learning"
+            ],
+            "location": "Łódź",
+            "salary": "Brak widełki"
+        },
+        {
+            "name": "Data Engineer",
+            "company": "Xebia Sp. z o.o.",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "EXCEL",
+                "powershell",
+                "SQL Server",
+                "Azure DevOps",
+                "Angielski (B2)"
+            ],
+            "nice to have": "Brak",
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "18000",
+                "high": "31000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Azure Data Engineer",
+            "company": "C&F S.A.",
+            "experience level": "Mid",
+            "technology": [
+                "DevOps",
+                "Azure",
+                "DevOps",
+                "Git",
+                "Azure DevOps",
+                "Python",
+                "SQL",
+                "Angielski (C1)",
+                "Polski (C1)"
+            ],
+            "nice to have": [
+                "Terraform",
+                "ARM"
+            ],
+            "location": "Praca zdalna",
+            "salary": "Brak widełki"
+        },
+        {
+            "name": "Data Engineer with Microsoft Fabric",
+            "company": "AVENGA",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "SQL",
+                "Python",
+                "Apache Spark",
+                "Databricks",
+                "Lakehouse Patterns",
+                "Medallion Architecture",
+                "Azure Data Services",
+                "Angielski (B2)",
+                "Polski (NATIVE)"
+            ],
+            "nice to have": "Brak",
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "20160",
+                "high": "23520",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Engineer (AWS)",
+            "company": "Onwelo S.A.",
+            "experience level": "Mid",
+            "technology": [
+                "Business Intelligence",
+                "Python",
+                "REST",
+                "Docker",
+                "SQL",
+                "AWS",
+                "AWS EC2",
+                "Redshift",
+                "DWH",
+                "BI",
+                "Shell",
+                "Bash",
+                "Spark",
+                "AWS Cloud",
+                "PowerBI",
+                "Tableau",
+                "Angielski",
+                "Polski"
+            ],
+            "nice to have": "Brak",
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "15750",
+                "high": "17850",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Mid Data Engineer",
+            "company": "Alterdata.io sp. z o.o.",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "SQL",
+                "Python",
+                "Problem solving",
+                "Git",
+                "Communication skills",
+                "Data Engineering",
+                "Polski (NATIVE)",
+                "Angielski (B2)"
+            ],
+            "nice to have": [
+                "Azure",
+                "AWS",
+                "Google Cloud Platform",
+                "Airflow",
+                "Spark",
+                "Snowflake",
+                "DBT",
+                "BigQuery",
+                "Azure Data Factory",
+                "ETL",
+                "Databricks"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "14000",
+                "high": "21000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Mid Data Engineer / Python Developer",
+            "company": "Alterdata.io sp. z o.o.",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "Python",
+                "SQL",
+                "Problem solving",
+                "Git",
+                "Communication skills",
+                "Data Engineering",
+                "Polski (NATIVE)",
+                "Angielski (B2)"
+            ],
+            "nice to have": [
+                "Azure",
+                "AWS",
+                "Google Cloud Platform",
+                "Airflow",
+                "Spark",
+                "Snowflake",
+                "DBT",
+                "BigQuery",
+                "Azure Data Factory",
+                "ETL",
+                "Databricks",
+                "Docker",
+                "Container"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "14000",
+                "high": "21000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Engineer",
+            "company": "Remitly Poland sp. z o.o.",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "Storage",
+                "Version control system",
+                "RDBMS",
+                "Angielski",
+                "Polski"
+            ],
+            "nice to have": [
+                "Kubernetes",
+                "Docker"
+            ],
+            "location": "Kraków",
+            "salary": {
+                "low": "20000",
+                "high": "28000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Master Data Management Engineer",
+            "company": "Devire Sp. z o.o.",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Data management",
+                "Informatica",
+                "MDM",
+                "Informatica PowerCenter",
+                "ETL",
+                "SQL",
+                "Relational database",
+                "Communication skills",
+                "Degree",
+                "Angielski (B2)",
+                "Polski"
+            ],
+            "nice to have": "Brak",
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "25200",
+                "high": "30240",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Engineer with GCP",
+            "company": "GFT Poland",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "SQL",
+                "Data modeling",
+                "BigQuery",
+                "Google cloud platform",
+                "Python",
+                "Angielski (B2)"
+            ],
+            "nice to have": [
+                "Tableau",
+                "Qlik Sense",
+                "Power BI"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "15120",
+                "high": "26040",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Engineer",
+            "company": "ITDS",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Python",
+                "Scala",
+                "Unix",
+                "Linux",
+                "Hadoop",
+                "Apache Hadoop",
+                "Spark",
+                "Yarn",
+                "Hive",
+                "SQL",
+                "Elasticsearch",
+                "Git",
+                "GitHub",
+                "Ansible",
+                "Jenkins",
+                "Shell",
+                "Data modeling",
+                "SDLC",
+                "Angielski"
+            ],
+            "nice to have": [
+                "Cloud",
+                "Design Patterns",
+                "Communication skills",
+                "REST API",
+                "Java",
+                "Spring Boot"
+            ],
+            "location": "Kraków",
+            "salary": {
+                "low": "19300",
+                "high": "26040",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Principal Data Engineer",
+            "company": "Digital Hub Warsaw at Bayer",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Golang",
+                "Kafka",
+                "REST API",
+                "Cloud",
+                "CI/CD",
+                "Git",
+                "Kubernetes",
+                "SQL",
+                "NoSQL",
+                "Angielski (NATIVE)"
+            ],
+            "nice to have": [
+                "Terraform",
+                "Machine learning",
+                "Python"
+            ],
+            "location": "Warszawa",
+            "salary": {
+                "low": "32000",
+                "high": "42000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Senior Data Engineer (Manager)",
+            "company": "Data Science UA",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Python",
+                "Data engineering",
+                "SQL",
+                "Azure Cloud",
+                "Azure Data Factory",
+                "dbt",
+                "Terraform",
+                "ETL",
+                "Git",
+                "Angielski (C1)"
+            ],
+            "nice to have": "Brak",
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "17811",
+                "high": "19394",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Professional Data Engineer",
+            "company": "AVENGA",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "Snowflake",
+                "ETL",
+                "Python",
+                "SQL",
+                "ServiceNow",
+                "Angielski",
+                "Polski"
+            ],
+            "nice to have": "Brak",
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "130",
+                "high": "145",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Engineer",
+            "company": "CHI Software",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "Snowflake",
+                "SQL",
+                "Python",
+                "Analytical skills",
+                "Data mapping",
+                "Data analysis",
+                "Data modelling",
+                "ETL",
+                "Data pipelines",
+                "Data engineering",
+                "AWS",
+                "dbt",
+                "Communication skills",
+                "Angielski (B2)"
+            ],
+            "nice to have": [
+                "Data visualization"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "9895",
+                "high": "19790",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Engineer",
+            "company": "Asana",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Enterprise iPass",
+                "Snaplogic",
+                "SQL",
+                "Python",
+                "Scala",
+                "AWS S3",
+                "Redshift",
+                "Angielski"
+            ],
+            "nice to have": [
+                "Looker",
+                "Tableau",
+                "Periscope",
+                "MicroStrategy",
+                "Pentaho",
+                "Snowflake"
+            ],
+            "location": "Warszawa",
+            "salary": {
+                "low": "18666",
+                "high": "29833",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Engineer - Fulfillment (part time)",
+            "company": "Tesco Technology",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "Hadoop",
+                "Scala",
+                "Kafka",
+                "Kubernetes",
+                "Spark",
+                "apachespark",
+                "Airflow",
+                "Angielski (B2)"
+            ],
+            "nice to have": [
+                "Spark Streaming",
+                "Hive",
+                "Functional programming"
+            ],
+            "location": "Kraków",
+            "salary": {
+                "low": "15000",
+                "high": "23000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Engineer (Fulfillment)",
+            "company": "Tesco Technology",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "Hadoop",
+                "Scala",
+                "Kafka",
+                "Kubernetes",
+                "Spark",
+                "Angielski (B2)"
+            ],
+            "nice to have": [
+                "Spark Streaming",
+                "Hive",
+                "Functional programming"
+            ],
+            "location": "Kraków",
+            "salary": {
+                "low": "20000",
+                "high": "30000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Engineer",
+            "company": "Harvey Nash Technology",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "Data engineering",
+                "Hive",
+                "Spark",
+                "Python",
+                "SQL",
+                "Angielski"
+            ],
+            "nice to have": [
+                "Snowflake",
+                "AWS",
+                "Flask",
+                "REST API"
+            ],
+            "location": "Warszawa",
+            "salary": {
+                "low": "18000",
+                "high": "24000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Senior Data Engineer (Finance Team)",
+            "company": "Falck Digital Technology Poland Sp. z o.o.",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "SQL",
+                "Azure",
+                "Python",
+                "PySpark",
+                "Databricks",
+                "DevOps",
+                "Git",
+                "Continuous integration",
+                "CAN",
+                "Angielski"
+            ],
+            "nice to have": "Brak",
+            "location": "Warszawa",
+            "salary": {
+                "low": "20000",
+                "high": "25000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Lead Data Engineer",
+            "company": "N-iX",
+            "experience level": "Expert",
+            "technology": [
+                "Data",
+                "GCP",
+                "BigQuery",
+                "Microservices architecture",
+                "Python",
+                "Docker",
+                "SQL",
+                "Airflow",
+                "Angielski (B2)"
+            ],
+            "nice to have": [
+                "Kubernetes",
+                "TypeScript",
+                "NestJS"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "24936",
+                "high": "30477",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Senior Data Engineer",
+            "company": "Capgemini Polska Sp. z o.o.",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Data mining",
+                "Data analysis",
+                "SQL",
+                "PostgreSQL",
+                "MySQL",
+                "Python",
+                "NumPy",
+                "scikit-learn",
+                "pandas",
+                "Functional programming",
+                "Big data",
+                "Spark",
+                "Hadoop",
+                "Databricks",
+                "Snowflake",
+                "Airflow",
+                "Communication skills",
+                "Angielski"
+            ],
+            "nice to have": [
+                "Data visualization",
+                "Kibana",
+                "Grafana"
+            ],
+            "location": [
+                "Lublin",
+                "Poznań",
+                "Opole",
+                "Katowice",
+                "Wrocław",
+                "Warszawa",
+                "Gdańsk"
+            ],
+            "salary": "Brak widełki"
+        },
+        {
+            "name": "Senior Big Data Engineer (Python)",
+            "company": "Capgemini Polska Sp. z o.o.",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Python",
+                "SQL",
+                "ETL",
+                "AWS",
+                "DBMS platforms",
+                "Angielski"
+            ],
+            "nice to have": "Brak",
+            "location": [
+                "Lublin",
+                "Poznań",
+                "Opole",
+                "Katowice",
+                "Wrocław",
+                "Warszawa",
+                "Kraków",
+                "Gdańsk"
+            ],
+            "salary": "Brak widełki"
+        },
+        {
+            "name": "Data Platform Engineer/Consultant - Team Leader",
+            "company": "Elitmind",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "SQL Server",
+                "SSIS",
+                "ETL",
+                "Data warehouse",
+                "Team management",
+                "SQL",
+                "Angielski (B2)"
+            ],
+            "nice to have": [
+                "Python",
+                "Snowflake",
+                "Databricks",
+                "Azure"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "17976",
+                "high": "24024",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Engineer",
+            "company": "SquareOne",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "Python",
+                "Google Cloud Platform",
+                "SQL",
+                "ETL",
+                "Apache Airflow",
+                "AWS",
+                "Azure",
+                "Flask",
+                "Snowflake",
+                "Angielski (B2)",
+                "Polski (B2)"
+            ],
+            "nice to have": [
+                "Jenkins",
+                "Kubernetes",
+                "Docker",
+                "Google Data Studio",
+                "Grafana"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "19000",
+                "high": "25000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Remote Senior Data Engineer",
+            "company": "Varwise",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Spark",
+                "AWS",
+                "Linux",
+                "NoSQL",
+                "SQL",
+                "Kafka",
+                "Java",
+                "Scala",
+                "AWS Lambda",
+                "Glue",
+                "Athena",
+                "Cassandra",
+                "Neo4j",
+                "Databricks",
+                "PySpark",
+                "Angielski (C2)"
+            ],
+            "nice to have": [
+                "Kinesis",
+                "Airflow",
+                "Jenkins",
+                "Datadog",
+                "Python",
+                "TensorFlow"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "29685",
+                "high": "39581",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Mid Big Data Engineer",
+            "company": "Capco Poland",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "Big data",
+                "Scala",
+                "python",
+                "Angielski (B2)",
+                "Polski (B1)"
+            ],
+            "nice to have": [
+                "Kafka",
+                "Degree",
+                "SQL",
+                "Spark",
+                "Hadoop",
+                "OOP",
+                "GCP"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "20160",
+                "high": "25200",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Senior Data Engineer",
+            "company": "Globallogic",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Python",
+                "Java",
+                "Scala",
+                "SQL",
+                "Terraform",
+                "AWS",
+                "Git",
+                "Docker",
+                "Airflow",
+                "Kubernetes",
+                "Angielski"
+            ],
+            "nice to have": [
+                "Data build tool",
+                "Databricks"
+            ],
+            "location": "Praca zdalna",
+            "salary": "Brak widełki"
+        },
+        {
+            "name": "Data Engineer",
+            "company": "AVENGA",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "ETL",
+                "SQL",
+                "Python",
+                "Angielski (B2)"
+            ],
+            "nice to have": "Brak",
+            "location": "Warszawa",
+            "salary": "Brak widełki"
+        },
+        {
+            "name": "Contractor Big Data Engineer",
+            "company": "OpenNet.pl Sp. z o.o.",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Scala",
+                "Python",
+                "Java",
+                "Spark",
+                "Apache Beam",
+                "GCP",
+                "Azure",
+                "AWS",
+                "TDD",
+                "CI/CD",
+                "Unix",
+                "Linux",
+                "Angielski (B2)"
+            ],
+            "nice to have": "Brak",
+            "location": [
+                "Warszawa",
+                "Kraków"
+            ],
+            "salary": {
+                "low": "14200",
+                "high": "25410",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Engineer",
+            "company": "AllSTARSIT",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Python",
+                "Data engineering",
+                "Angielski (B2)"
+            ],
+            "nice to have": [
+                "AI",
+                "Hadoop",
+                "ML",
+                "Quality control",
+                "AWS Cloud",
+                "MLOps",
+                "CI",
+                "CD",
+                "Machine learning",
+                "Data mining",
+                "pandas",
+                "scikit-learn",
+                "PyTorch",
+                "Docker"
+            ],
+            "location": "Praca zdalna",
+            "salary": "Brak widełki"
+        },
+        {
+            "name": "QA Engineer - Data Lake & Data Warehouse Solutions",
+            "company": "Shiji Poland",
+            "experience level": "Mid",
+            "technology": [
+                "Testing",
+                "SQL",
+                "QA Automation",
+                "Docker",
+                "Angielski (B1)"
+            ],
+            "nice to have": [
+                "Postman",
+                "C#",
+                "Swagger"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "10080",
+                "high": "15960",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Engineer",
+            "company": "AVENGA",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Python",
+                "Databricks",
+                "Azure Data Factory",
+                "SQL",
+                "Angielski (B2)"
+            ],
+            "nice to have": "Brak",
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "20100",
+                "high": "26800",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Engineer",
+            "company": "Ework Group",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Python",
+                "Azure",
+                "Azure Data Factory",
+                "Azure Databricks",
+                "Spark",
+                "Angielski (B2)"
+            ],
+            "nice to have": "Brak",
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "28800",
+                "high": "32400",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Big Data Engineer IV",
+            "company": "OpenX",
+            "experience level": "Senior",
+            "technology": [
+                "Backend",
+                "Scala",
+                "Cloud",
+                "Kubernetes",
+                "Java",
+                "Polski",
+                "Angielski"
+            ],
+            "nice to have": [
+                "Docker",
+                "Spark",
+                "Jenkins",
+                "Hadoop",
+                "Data engineering",
+                "Python"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "30240",
+                "high": "34944",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Engineer",
+            "company": "Prime Engineering",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "Hadoop",
+                "Python",
+                "PySpark",
+                "Git",
+                "GitLab",
+                "Angielski"
+            ],
+            "nice to have": "Brak",
+            "location": "Warszawa",
+            "salary": {
+                "low": "21000",
+                "high": "25200",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Platform Engineer/Consultant",
+            "company": "Elitmind",
+            "experience level": "Mid",
+            "technology": [
+                "Business Intelligence",
+                "English",
+                "SQL",
+                "ETL",
+                "Azure",
+                "Polski",
+                "Angielski (B2)"
+            ],
+            "nice to have": [
+                "Databricks",
+                "Snowflake",
+                "Python",
+                "Data Modelling skills"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "13944",
+                "high": "19992",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Engineer",
+            "company": "BlueLabs",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Spark",
+                "SQL",
+                "MongoDB",
+                "PostgreSQL",
+                "Python",
+                "Java",
+                "Kinesis",
+                "Degree",
+                "Flink",
+                "Data warehouses",
+                "Kafka",
+                "RabbitMQ",
+                "Data Lake",
+                "Continuous integration",
+                "Golang",
+                "Docker",
+                "Distributed computing",
+                "Angielski"
+            ],
+            "nice to have": [
+                "Communication skills",
+                "Data modelling",
+                "Argo",
+                "BI",
+                "Looker",
+                "Terraform",
+                "IaC",
+                "Grafana",
+                "Big Data",
+                "Kubernetes",
+                "GCP",
+                "dbt"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "19643",
+                "high": "33929",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Cloud Data Engineering Team Lead",
+            "company": "IPF Digital",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "SQL",
+                "AWS",
+                "Python",
+                "Linux",
+                "Confluence",
+                "OpenVPN",
+                "Jira",
+                "Bitbucket",
+                "Git",
+                "Snowflake",
+                "RDS",
+                "S3",
+                "Glue",
+                "DMS",
+                "Appflow",
+                "MySQL",
+                "english",
+                "Angielski (C1)",
+                "Polski (C1)"
+            ],
+            "nice to have": [
+                "SnowPro Core"
+            ],
+            "location": "Warszawa",
+            "salary": "Brak widełki"
+        },
+        {
+            "name": "Data Platform Architect",
+            "company": "Elitmind",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Azure",
+                "Data Factory",
+                "Databricks",
+                "SQL",
+                "ETL/ELT",
+                "Data Architecture",
+                "Data Platforms",
+                "Lakehouse",
+                "Azure Synapse",
+                "SQL Server",
+                "Data warehouses",
+                "Data Lake",
+                "Delta Live Table",
+                "UNITY",
+                "Communication skills",
+                "VNET",
+                "VM",
+                "Angielski (B2)"
+            ],
+            "nice to have": [
+                "Data Governance",
+                "Professional Certification"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "26880",
+                "high": "33936",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Lead Data Architect - Market Analytics",
+            "company": "Digital Hub Warsaw at Bayer",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Degree",
+                "Market analytics",
+                "Use cases",
+                "Analytical skills",
+                "Communication skills",
+                "SQL",
+                "Angielski"
+            ],
+            "nice to have": [
+                "Databricks",
+                "Snowflake",
+                "Azure Data Factory",
+                "Azure Data Lake",
+                "Python",
+                "SAP",
+                "HANA",
+                "ETL",
+                "SQL",
+                "Cloud computing",
+                "Data management"
+            ],
+            "location": "Warszawa",
+            "salary": {
+                "low": "24000",
+                "high": "34000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Programista Hurtowni Danych",
+            "company": "Connectis_",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "SQL",
+                "SSIS",
+                "MS SQL",
+                "ETL",
+                "Data management",
+                "T-SQL",
+                "Polski",
+                "Angielski"
+            ],
+            "nice to have": [
+                "PowerShell",
+                ".NET",
+                "Enterprise Architect"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "20000",
+                "high": "24000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Modeler",
+            "company": "ITDS",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Data models",
+                "Analyzing data",
+                "Relational database",
+                "XML",
+                "JSON",
+                "BIAN",
+                "IBM",
+                "BDW",
+                "Angielski"
+            ],
+            "nice to have": "Brak",
+            "location": "Kraków",
+            "salary": {
+                "low": "21000",
+                "high": "25000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Data Warehouse Administrator (Oracle and ODI)",
+            "company": "Sigma IT Poland",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Data warehouse",
+                "Oracle database",
+                "SQL",
+                "PL/SQL",
+                "ODI",
+                "Angielski (C1)"
+            ],
+            "nice to have": [
+                "Snowflake",
+                "Matillion"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "20160",
+                "high": "25200",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "AWS Data Solutions Architect",
+            "company": "Nordcloud",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Data engineering",
+                "Python",
+                "Scala",
+                "Airflow",
+                "Apache Spark",
+                "SQL",
+                "AWS",
+                "Angielski"
+            ],
+            "nice to have": [
+                "Kubernetes",
+                "Docker",
+                "IaaC",
+                "Terraform",
+                "pandas",
+                "Composer",
+                "Big data"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "30240",
+                "high": "38472",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "ETL Developer",
+            "company": "PKO Finat Sp. z o.o.",
+            "experience level": "Mid",
+            "technology": [
+                "Backend",
+                "SQL",
+                "Oracle",
+                "Informatica",
+                "BI",
+                "Microsoft SQL Server",
+                "Angielski"
+            ],
+            "nice to have": "Brak",
+            "location": "Warszawa",
+            "salary": "Brak widełki"
+        },
+        {
+            "name": "Senior Data Architect – Supply Chain Analytics",
+            "company": "Digital Hub Warsaw at Bayer",
+            "experience level": "Senior",
+            "technology": [
+                "Data",
+                "Degree",
+                "Data engineering",
+                "Azure Data Lake",
+                "Databricks",
+                "Snowflake",
+                "SQL",
+                "Python",
+                "BI",
+                "Tableau",
+                "Data management",
+                "Analytical skills",
+                "Communication skills",
+                "Angielski"
+            ],
+            "nice to have": "Brak",
+            "location": "Warszawa",
+            "salary": {
+                "low": "20000",
+                "high": "28500",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Lead Big Data Developer",
+            "company": "EPAM",
+            "experience level": "Expert",
+            "technology": [
+                "Data",
+                "Big Data",
+                "Python",
+                "Scala",
+                "Java",
+                "Spark",
+                "Databricks",
+                "Azure",
+                "Degree",
+                "AWS",
+                "Angielski"
+            ],
+            "nice to have": [
+                "Hadoop",
+                "Kafka",
+                "Airflow",
+                "HDFS",
+                "Yarn",
+                "Message queue",
+                "Lucene"
+            ],
+            "location": "Praca zdalna",
+            "salary": {
+                "low": "26500",
+                "high": "31500",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Analytics Engineer",
+            "company": "Sublime",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "SQL",
+                "Data visualization",
+                "Analytical skills",
+                "Communication skills",
+                "Polski",
+                "Angielski"
+            ],
+            "nice to have": [
+                "Google BigQuery",
+                "Git",
+                "dbt",
+                "Visual Studio",
+                "Apache Airflow",
+                "Data engineering",
+                "Python"
+            ],
+            "location": "Warszawa",
+            "salary": {
+                "low": "12000",
+                "high": "16000",
+                "currency": "PLN"
+            }
+        },
+        {
+            "name": "Big Data Developer (KYC)",
+            "company": "AVENGA",
+            "experience level": "Mid",
+            "technology": [
+                "Data",
+                "Java",
+                "Scala",
+                "Spark",
+                "Linux",
+                "Shell",
+                "SQL",
+                "Hadoop",
+                "Yarn",
+                "Hive",
+                "Git",
+                "Ansible",
+                "Bamboo",
+                "Angielski (B2)",
+                "Polski"
+            ],
+            "nice to have": [
+                "Functional programming",
+                "Flink",
+                "Kafka",
+                "Data analysis",
+                "SAFe"
+            ],
+            "location": [
+                "Łódź",
+                "Gdańsk",
+                "Warszawa",
+                "Gdynia"
+            ],
+            "salary": {
+                "low": "20160",
+                "high": "25200",
+                "currency": "PLN"
+            }
+        }
+    ]
+}
